@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<img src="vv" alt="Paz interior" width="104" height="142">
+<img src="paz mental.jpg"/>
 
 <h1>Paz interior</h1>
   
