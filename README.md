@@ -1,4 +1,9 @@
+<!DOCTYPE html>
 <html>
+<head>
+
+<title>Paz interior</title>
+</head>
 <body>
 
 <h1>Paz interior</h1>
